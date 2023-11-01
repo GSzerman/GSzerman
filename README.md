@@ -1,8 +1,8 @@
 ### Hi there. I am Gabi 👋
 
 
--🌱 I’m a data science student.
--👨‍💻 I’m currently working as Data Engineer in a consulting company
+- 🌱 I’m a data science student.
+- 👨‍💻 I’m currently working as Data Engineer in a consulting company
 - 🇦🇷  I Live in Buenos Aires, Argentina.
 
 [My Linkedin Profile](https://www.linkedin.com/in/gszerman/)
