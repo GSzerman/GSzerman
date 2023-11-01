@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there. I am Gabi 👋
+
+
+🌱 I’m a data science student.
+👨‍💻 I’m currently working as Data Engineer in a consulting company
+🇦🇷  I Live in Buenos Aires, Argentina.
+
+[My Linkedin Profile](https://www.linkedin.com/in/gszerman/)
 
 <!--
 **GSzerman/GSzerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
